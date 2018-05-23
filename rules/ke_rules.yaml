@@ -60,7 +60,7 @@ rules:
     check_serverconfig_valid_node_versions: false
     check_serverconfig_valid_master_versions: false
     allowed_nodepool_versions:
-      - major: '1.7'
+      - major: '1.7000000000000'
         minor: '14-gke.0'
         operator: '>='
       - major: '1.8'
